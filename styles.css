@@ -1,0 +1,11 @@
+.centre-align{
+    text-align:center;
+}
+
+div{
+    text-align:center;
+}
+
+.no-bullets{
+    list-style-type:none;
+}
