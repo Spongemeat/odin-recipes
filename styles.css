@@ -2,8 +2,8 @@ div.centre{
     text-align:center;
 }
 
-.no-bullets{
-    list-style-type:none;
+body.bgcolor{
+    background-color:beige;
 }
 
 img{
@@ -11,8 +11,16 @@ img{
     width:500px;
 }
 
+ul.myUL li{
+    background-color:grey;
+}
+
 ul.myUL,
 ol.myUL{
     display: inline-block;
     text-align:left;
+}
+
+.no-bullets{
+    list-style-type:none;
 }
