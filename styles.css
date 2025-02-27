@@ -1,3 +1,16 @@
+*{
+margin:0;
+padding: 0;
+box-sizing:border-box;
+}
+
+.box{
+    outline: 2px solid rgb(175, 175, 135);
+    background-color:rgb(230, 231, 220);
+    padding: 20px;
+}
+
+
 div.centre{
     text-align:center;
 }
