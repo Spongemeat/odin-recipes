@@ -4,6 +4,7 @@ div.centre{
 
 body.bgcolor{
     background-color:beige;
+    font-family:"Helvetica", "Tahoma", "sans-serif";
 }
 
 img{
@@ -15,12 +16,22 @@ ul.myUL li{
     background-color:grey;
 }
 
+ul li{
+    background-color: rgb(231, 159, 159);
+}
+
 ul.myUL,
 ol.myUL{
     display: inline-block;
     text-align:left;
 }
 
+
 .no-bullets{
     list-style-type:none;
+}
+
+ul.menu li{
+    background-color: rgb(233, 233, 191);
+    font-family:"Times New Roman", "sans-serif"
 }
