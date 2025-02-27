@@ -1,4 +1,4 @@
-.centre-align{
+div.centre{
     text-align:center;
 }
 
@@ -9,4 +9,10 @@
 img{
     height:auto;
     width:500px;
+}
+
+ul.myUL,
+ol.myUL{
+    display: inline-block;
+    text-align:left;
 }
