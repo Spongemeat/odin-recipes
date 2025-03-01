@@ -35,6 +35,8 @@ img{
 ul.myUL li,
 ol.myUL li{
     padding: 5px;
+    margin-left: 1em;
+    text-align: left;
 }
 
 .menu li{
