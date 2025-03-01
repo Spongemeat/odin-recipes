@@ -37,7 +37,7 @@ img.home{
     display:inline;
     height: auto; 
     width: 215px;
-    padding: 0px;
+    padding: 10px 0px;
 }
 
 ul.myUL li,
@@ -55,4 +55,11 @@ ol.myUL li{
     padding: 10px;
     text-align: center;
     margin-left: -0.75em;
+}
+
+.frontpagemenu{
+    display: inline-block;
+    height: auto;
+    width: 215px;
+    text-align: center;
 }
