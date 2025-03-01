@@ -2,22 +2,23 @@
 margin:0;
 padding: 0;
 box-sizing:border-box;
+background-color:#fdf4cb;
 }
-
-.box{
-    outline: 2px solid rgb(175, 175, 135);
-    background-color:rgb(230, 231, 220);
-    padding: 20px;
-}
-
 
 div.centre{
-    text-align:center;
+    margin: 25px;
+    width: auto;
+    text-align: center;
 }
 
 body.bgcolor{
     background-color:beige;
     font-family:"Helvetica", "Tahoma", "sans-serif";
+}
+
+.box{
+    padding: 20px;
+    border: rgb(185, 165, 139) 2px;
 }
 
 img{
